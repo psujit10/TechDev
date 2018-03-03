@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Welcome to Git")
+        print("Hello TechDev")
         
     }
 
